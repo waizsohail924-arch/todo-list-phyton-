@@ -1,2 +1,20 @@
-# todo-list-phyton-
-Ek simple command-line To-Do List program jisme users apne tasks add aur view kar sakte hain. Isme Python Lists, append(), enumerate(), loops, functions aur conditional statements ka use hua hai. Tasks sirf program chalne tak memory me save rehte hain, program band hone ke baad delete ho jaate hain.
+To-Do List (Python)
+A simple command-line To-Do List application built with Python. Users can add tasks and view them in a numbered list.
+Objective
+Build a simple program where users can add tasks to a Python list and view them.
+Concepts Used
+Python Lists
+append()
+for loop
+enumerate()
+Functions
+User input
+Conditional statements
+Features
+Add a task
+View all saved tasks
+Exit the program
+How to Run
+Make sure Python 3 is installed on your system.
+Save/clone this repository.
+Run the program:
